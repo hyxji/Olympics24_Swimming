@@ -1,0 +1,454 @@
+Team_Code,Team_Name,Team_Gender,Country_Code,Discipline_Code,Event_Tag
+DIVM10MTEAM2AUS01,Australia,M,AUS,diving,Men's Synchronised 10m Platform
+DIVM10MTEAM2CAN01,Canada,M,CAN,diving,Men's Synchronised 10m Platform
+DIVM10MTEAM2CHN01,People's Republic of China,M,CHN,diving,Men's Synchronised 10m Platform
+DIVM10MTEAM2FRA01,France,M,FRA,diving,Men's Synchronised 10m Platform
+DIVM10MTEAM2GBR01,Great Britain,M,GBR,diving,Men's Synchronised 10m Platform
+DIVM10MTEAM2GER01,Germany,M,GER,diving,Men's Synchronised 10m Platform
+DIVM10MTEAM2MEX01,Mexico,M,MEX,diving,Men's Synchronised 10m Platform
+DIVM10MTEAM2UKR01,Ukraine,M,UKR,diving,Men's Synchronised 10m Platform
+DIVM3MTEAM2-CHN01,People's Republic of China,M,CHN,diving,Men's Synchronised 3m Springboard
+DIVM3MTEAM2-ESP01,Spain,M,ESP,diving,Men's Synchronised 3m Springboard
+DIVM3MTEAM2-FRA01,France,M,FRA,diving,Men's Synchronised 3m Springboard
+DIVM3MTEAM2-GBR01,Great Britain,M,GBR,diving,Men's Synchronised 3m Springboard
+DIVM3MTEAM2-ITA01,Italy,M,ITA,diving,Men's Synchronised 3m Springboard
+DIVM3MTEAM2-MEX01,Mexico,M,MEX,diving,Men's Synchronised 3m Springboard
+DIVM3MTEAM2-UKR01,Ukraine,M,UKR,diving,Men's Synchronised 3m Springboard
+DIVM3MTEAM2-USA01,United States of America,M,USA,diving,Men's Synchronised 3m Springboard
+DIVW10MTEAM2CAN01,Canada,W,CAN,diving,Women's Synchronised 10m Platform
+DIVW10MTEAM2CHN01,People's Republic of China,W,CHN,diving,Women's Synchronised 10m Platform
+DIVW10MTEAM2FRA01,France,W,FRA,diving,Women's Synchronised 10m Platform
+DIVW10MTEAM2GBR01,Great Britain,W,GBR,diving,Women's Synchronised 10m Platform
+DIVW10MTEAM2MEX01,Mexico,W,MEX,diving,Women's Synchronised 10m Platform
+DIVW10MTEAM2PRK01,Democratic People's Republic of Korea,W,PRK,diving,Women's Synchronised 10m Platform
+DIVW10MTEAM2UKR01,Ukraine,W,UKR,diving,Women's Synchronised 10m Platform
+DIVW10MTEAM2USA01,United States of America,W,USA,diving,Women's Synchronised 10m Platform
+DIVW3MTEAM2-AUS01,Australia,W,AUS,diving,Women's Synchronised 3m Springboard
+DIVW3MTEAM2-CHN01,People's Republic of China,W,CHN,diving,Women's Synchronised 3m Springboard
+DIVW3MTEAM2-FRA01,France,W,FRA,diving,Women's Synchronised 3m Springboard
+DIVW3MTEAM2-GBR01,Great Britain,W,GBR,diving,Women's Synchronised 3m Springboard
+DIVW3MTEAM2-GER01,Germany,W,GER,diving,Women's Synchronised 3m Springboard
+DIVW3MTEAM2-ITA01,Italy,W,ITA,diving,Women's Synchronised 3m Springboard
+DIVW3MTEAM2-UKR01,Ukraine,W,UKR,diving,Women's Synchronised 3m Springboard
+DIVW3MTEAM2-USA01,United States of America,W,USA,diving,Women's Synchronised 3m Springboard
+SWAWTEAM2---AUS01,Australia,W,AUS,artistic-swimming,Duet
+SWAWTEAM2---AUT01,Austria,W,AUT,artistic-swimming,Duet
+SWAWTEAM2---CAN01,Canada,W,CAN,artistic-swimming,Duet
+SWAWTEAM2---CHN01,People's Republic of China,W,CHN,artistic-swimming,Duet
+SWAWTEAM2---EGY01,Egypt,W,EGY,artistic-swimming,Duet
+SWAWTEAM2---ESP01,Spain,W,ESP,artistic-swimming,Duet
+SWAWTEAM2---FRA01,France,W,FRA,artistic-swimming,Duet
+SWAWTEAM2---GBR01,Great Britain,W,GBR,artistic-swimming,Duet
+SWAWTEAM2---GRE01,Greece,W,GRE,artistic-swimming,Duet
+SWAWTEAM2---ISR01,Israel,W,ISR,artistic-swimming,Duet
+SWAWTEAM2---ITA01,Italy,W,ITA,artistic-swimming,Duet
+SWAWTEAM2---JPN01,Japan,W,JPN,artistic-swimming,Duet
+SWAWTEAM2---KOR01,Republic of Korea,W,KOR,artistic-swimming,Duet
+SWAWTEAM2---MEX01,Mexico,W,MEX,artistic-swimming,Duet
+SWAWTEAM2---NED01,Netherlands,W,NED,artistic-swimming,Duet
+SWAWTEAM2---NZL01,New Zealand,W,NZL,artistic-swimming,Duet
+SWAWTEAM2---UKR01,Ukraine,W,UKR,artistic-swimming,Duet
+SWAWTEAM2---USA01,United States of America,W,USA,artistic-swimming,Duet
+SWAWTEAM8---AUS01,Australia,O,AUS,artistic-swimming,Team
+SWAWTEAM8---CAN01,Canada,O,CAN,artistic-swimming,Team
+SWAWTEAM8---CHN01,People's Republic of China,O,CHN,artistic-swimming,Team
+SWAWTEAM8---EGY01,Egypt,O,EGY,artistic-swimming,Team
+SWAWTEAM8---ESP01,Spain,O,ESP,artistic-swimming,Team
+SWAWTEAM8---FRA01,France,O,FRA,artistic-swimming,Team
+SWAWTEAM8---ITA01,Italy,O,ITA,artistic-swimming,Team
+SWAWTEAM8---JPN01,Japan,O,JPN,artistic-swimming,Team
+SWAWTEAM8---MEX01,Mexico,O,MEX,artistic-swimming,Team
+SWAWTEAM8---USA01,United States of America,O,USA,artistic-swimming,Team
+SWMM4X100MFRAUS01,Australia,M,AUS,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRBRA01,Brazil,M,BRA,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRCAN01,Canada,M,CAN,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRCHN01,People's Republic of China,M,CHN,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRESP01,Spain,M,ESP,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRFRA01,France,M,FRA,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRGBR01,Great Britain,M,GBR,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRGER01,Germany,M,GER,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRGRE01,Greece,M,GRE,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRHUN01,Hungary,M,HUN,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRISR01,Israel,M,ISR,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRITA01,Italy,M,ITA,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRPOL01,Poland,M,POL,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRSRB01,Serbia,M,SRB,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRSWE01,Sweden,M,SWE,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MFRUSA01,United States of America,M,USA,swimming,Men's 4 x 100m Freestyle Relay
+SWMM4X100MMDAUS01,Australia,M,AUS,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDAUT01,Austria,M,AUT,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDCAN01,Canada,M,CAN,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDCHN01,People's Republic of China,M,CHN,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDESP01,Spain,M,ESP,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDFRA01,France,M,FRA,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDGBR01,Great Britain,M,GBR,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDGER01,Germany,M,GER,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDIRL01,Ireland,M,IRL,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDITA01,Italy,M,ITA,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDJPN01,Japan,M,JPN,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDKOR01,Republic of Korea,M,KOR,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDNED01,Netherlands,M,NED,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDPOL01,Poland,M,POL,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDSUI01,Switzerland,M,SUI,swimming,Men's 4 x 100m Medley Relay
+SWMM4X100MMDUSA01,United States of America,M,USA,swimming,Men's 4 x 100m Medley Relay
+SWMM4X200MFRAUS01,Australia,M,AUS,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRBRA01,Brazil,M,BRA,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRCAN01,Canada,M,CAN,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRCHN01,People's Republic of China,M,CHN,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRESP01,Spain,M,ESP,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRFRA01,France,M,FRA,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRGBR01,Great Britain,M,GBR,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRGER01,Germany,M,GER,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRGRE01,Greece,M,GRE,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRISR01,Israel,M,ISR,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRITA01,Italy,M,ITA,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRJPN01,Japan,M,JPN,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRKOR01,Republic of Korea,M,KOR,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRLTU01,Lithuania,M,LTU,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRSUI01,Switzerland,M,SUI,swimming,Men's 4 x 200m Freestyle Relay
+SWMM4X200MFRUSA01,United States of America,M,USA,swimming,Men's 4 x 200m Freestyle Relay
+SWMW4X100MFRAUS01,Australia,W,AUS,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRBRA01,Brazil,W,BRA,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRCAN01,Canada,W,CAN,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRCHN01,People's Republic of China,W,CHN,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRDEN01,Denmark,W,DEN,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRFRA01,France,W,FRA,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRGBR01,Great Britain,W,GBR,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRHKG01,"Hong Kong, China",W,HKG,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRHUN01,Hungary,W,HUN,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRIRL01,Ireland,W,IRL,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRITA01,Italy,W,ITA,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRNED01,Netherlands,W,NED,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRPOL01,Poland,W,POL,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRSLO01,Slovenia,W,SLO,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRSWE01,Sweden,W,SWE,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MFRUSA01,United States of America,W,USA,swimming,Women's 4 x 100m Freestyle Relay
+SWMW4X100MMDAUS01,Australia,W,AUS,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDCAN01,Canada,W,CAN,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDCHN01,People's Republic of China,W,CHN,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDDEN01,Denmark,W,DEN,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDFRA01,France,W,FRA,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDGBR01,Great Britain,W,GBR,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDGER01,Germany,W,GER,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDHKG01,"Hong Kong, China",W,HKG,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDIRL01,Ireland,W,IRL,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDITA01,Italy,W,ITA,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDJPN01,Japan,W,JPN,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDNED01,Netherlands,W,NED,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDPOL01,Poland,W,POL,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDSGP01,Singapore,W,SGP,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDSWE01,Sweden,W,SWE,swimming,Women's 4 x 100m Medley Relay
+SWMW4X100MMDUSA01,United States of America,W,USA,swimming,Women's 4 x 100m Medley Relay
+SWMW4X200MFRAUS01,Australia,W,AUS,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRBRA01,Brazil,W,BRA,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRCAN01,Canada,W,CAN,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRCHN01,People's Republic of China,W,CHN,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRESP01,Spain,W,ESP,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRFRA01,France,W,FRA,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRGBR01,Great Britain,W,GBR,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRGER01,Germany,W,GER,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRHUN01,Hungary,W,HUN,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRISR01,Israel,W,ISR,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRITA01,Italy,W,ITA,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRJPN01,Japan,W,JPN,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRNED01,Netherlands,W,NED,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRNZL01,New Zealand,W,NZL,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRTUR01,Türkiye,W,TUR,swimming,Women's 4 x 200m Freestyle Relay
+SWMW4X200MFRUSA01,United States of America,W,USA,swimming,Women's 4 x 200m Freestyle Relay
+SWMX4X100MMDAUS01,Australia,X,AUS,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDBRA01,Brazil,X,BRA,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDCAN01,Canada,X,CAN,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDCHN01,People's Republic of China,X,CHN,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDFRA01,France,X,FRA,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDGBR01,Great Britain,X,GBR,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDGER01,Germany,X,GER,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDGRE01,Greece,X,GRE,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDISR01,Israel,X,ISR,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDITA01,Italy,X,ITA,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDJPN01,Japan,X,JPN,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDKOR01,Republic of Korea,X,KOR,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDNED01,Netherlands,X,NED,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDPOL01,Poland,X,POL,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDSWE01,Sweden,X,SWE,swimming,Mixed 4 x 100m Medley Relay
+SWMX4X100MMDUSA01,United States of America,X,USA,swimming,Mixed 4 x 100m Medley Relay
+T000180168080,United States of America,M,USA,swimming,
+T005092223144,Australia,W,AUS,swimming,
+T005105061005,Netherlands,W,NED,swimming,
+T005106100046,People's Republic of China,W,CHN,swimming,
+T006235228185,Australia,X,AUS,swimming,
+T007165029113,United States of America,M,USA,swimming,
+T009051173051,United States of America,W,USA,swimming,
+T009172220247,Australia,M,AUS,swimming,
+T010112120160,United States of America,W,USA,swimming,
+T010239039210,Australia,W,AUS,swimming,
+T011230232205,Australia,W,AUS,swimming,
+T012092132149,People's Republic of China,W,CHN,swimming,
+T012123222150,United States of America,M,USA,swimming,
+T013046016056,United States of America,M,USA,swimming,
+T015155079200,South Africa,M,RSA,swimming,
+T015237038062,People's Republic of China,X,CHN,swimming,
+T017210105197,Poland,M,POL,swimming,
+T018050143120,Republic of Korea,M,KOR,swimming,
+T018078205011,United States of America,X,USA,swimming,
+T021139183156,People's Republic of China,X,CHN,swimming,
+T021182047086,Italy,W,ITA,swimming,
+T026007161153,People's Republic of China,M,CHN,swimming,
+T027137076094,Russian Federation,X,RUS,swimming,
+T028003209106,Israel,W,ISR,swimming,
+T031089020226,Austria,M,AUT,swimming,
+T032180102004,Hungary,W,HUN,swimming,
+T032230089255,South Africa,W,RSA,swimming,
+T032254243215,Australia,W,AUS,swimming,
+T033016104132,United States of America,M,USA,swimming,
+T034172017177,Australia,W,AUS,swimming,
+T036184251139,Canada,W,CAN,swimming,
+T037217050165,Great Britain,W,GBR,swimming,
+T040023042051,Australia,W,AUS,swimming,
+T040026171031,People's Republic of China,M,CHN,swimming,
+T040052215176,Netherlands,W,NED,swimming,
+T041030033135,Australia,M,AUS,swimming,
+T044178085196,Australia,W,AUS,swimming,
+T047173034031,Republic of Korea,M,KOR,swimming,
+T048127108097,Australia,W,AUS,swimming,
+T048252009004,Great Britain,X,GBR,swimming,
+T050018234251,Italy,M,ITA,swimming,
+T050113048223,Great Britain,X,GBR,swimming,
+T051001088214,South Africa,M,RSA,swimming,
+T051044143211,Australia,M,AUS,swimming,
+T053127170146,United States of America,W,USA,swimming,
+T054085034000,Australia,W,AUS,swimming,
+T054095068175,United States of America,M,USA,swimming,
+T055237149192,People's Republic of China,M,CHN,swimming,
+T056152082134,Great Britain,X,GBR,swimming,
+T056184065059,Australia,W,AUS,swimming,
+T056243084219,United States of America,M,USA,swimming,
+T057153235207,United States of America,W,USA,swimming,
+T059049008124,United States of America,M,USA,swimming,
+T061066235178,Australia,W,AUS,swimming,
+T061199228210,United States of America,M,USA,swimming,
+T062099173126,United States of America,M,USA,swimming,
+T070176182065,Australia,W,AUS,swimming,
+T070224246047,United States of America,M,USA,swimming,
+T072239007015,Australia,M,AUS,swimming,
+T073212219121,People's Republic of China,W,CHN,swimming,
+T074215096235,South Africa,X,RSA,swimming,
+T075047206000,Italy,M,ITA,swimming,
+T075068011152,Canada,W,CAN,swimming,
+T076077236018,People's Republic of China,X,CHN,swimming,
+T077028246213,Canada,W,CAN,swimming,
+T077146100097,Australia,W,AUS,swimming,
+T079248110012,Italy,W,ITA,swimming,
+T080064149056,Great Britain,M,GBR,swimming,
+T080216244244,United States of America,W,USA,swimming,
+T082101210032,Australia,W,AUS,swimming,
+T083202023196,Australia,W,AUS,swimming,
+T083223008017,German Democratic Republic,W,GDR,swimming,
+T083238094200,United States of America,M,USA,swimming,
+T084165231039,People's Republic of China,M,CHN,swimming,
+T085109095203,Australia,W,AUS,swimming,
+T085178047216,People's Republic of China,W,CHN,swimming,
+T086166153118,United States of America,W,USA,swimming,
+T087049051255,United States of America,M,USA,swimming,
+T087095040064,Hungary,W,HUN,swimming,
+T088121127206,Australia,W,AUS,swimming,
+T091046074070,Great Britain,X,GBR,swimming,
+T091074019200,Australia,X,AUS,swimming,
+T093018155227,Spain,M,ESP,swimming,
+T094207118201,Australia,W,AUS,swimming,
+T094231202250,United States of America,W,USA,swimming,
+T095071193182,Hungary,M,HUN,swimming,
+T096245183145,United States of America,M,USA,swimming,
+T097024201207,United States of America,M,USA,swimming,
+T097190080234,Australia,W,AUS,swimming,
+T097198068021,United States of America,M,USA,swimming,
+T099012198163,France,M,FRA,swimming,
+T103009064164,Serbia,M,SRB,swimming,
+T104147084217,Unified Team,M,EUN,swimming,
+T107073074055,People's Republic of China,W,CHN,swimming,
+T107081146202,Great Britain,M,GBR,swimming,
+T107144046005,Australia,W,AUS,swimming,
+T108070151074,Italy,M,ITA,swimming,
+T108160233061,United States of America,M,USA,swimming,
+T108161120062,Australia,M,AUS,swimming,
+T109237041237,Great Britain,X,GBR,swimming,
+T110180116243,Great Britain,M,GBR,swimming,
+T112130234068,Australia,W,AUS,swimming,
+T112173189178,Great Britain,M,GBR,swimming,
+T114143077091,Sweden,W,SWE,swimming,
+T117235076051,People's Republic of China,M,CHN,swimming,
+T119034156000,United States of America,M,USA,swimming,
+T120121050150,United States of America,W,USA,swimming,
+T121068205168,Italy,M,ITA,swimming,
+T123093085163,People's Republic of China,M,CHN,swimming,
+T124043035021,United States of America,M,USA,swimming,
+T126209096140,Great Britain,X,GBR,swimming,
+T127073218087,Australia,W,AUS,swimming,
+T127075108220,South Africa,W,RSA,swimming,
+T127127130200,Australia,W,AUS,swimming,
+T128043238071,United States of America,M,USA,swimming,
+T129222111254,United States of America,M,USA,swimming,
+T133048054128,United States of America,M,USA,swimming,
+T134130092240,People's Republic of China,W,CHN,swimming,
+T134149068080,Netherlands,M,NED,swimming,
+T135144033254,People's Republic of China,W,CHN,swimming,
+T136232070138,People's Republic of China,X,CHN,swimming,
+T137153163006,Australia,W,AUS,swimming,
+T138230063185,United States of America,W,USA,swimming,
+T139082206031,People's Republic of China,W,CHN,swimming,
+T140007067165,Australia,W,AUS,swimming,
+T140176027011,People's Republic of China,W,CHN,swimming,
+T141135060156,Germany,W,GER,swimming,
+T143157012191,New Zealand,W,NZL,swimming,
+T144159001066,Australia,W,AUS,swimming,
+T144224053168,United States of America,M,USA,swimming,
+T144247061115,Canada,M,CAN,swimming,
+T145195042022,Australia,M,AUS,swimming,
+T146196227215,United States of America,W,USA,swimming,
+T146250208081,Australia,W,AUS,swimming,
+T147031123022,Greece,M,GRE,swimming,
+T147237182130,United States of America,M,USA,swimming,
+T150192020010,Russian Federation,W,RUS,swimming,
+T150208041031,United States of America,W,USA,swimming,
+T151104038079,People's Republic of China,X,CHN,swimming,
+T151165203059,Australia,W,AUS,swimming,
+T151248169221,People's Republic of China,W,CHN,swimming,
+T152007104101,United States of America,M,USA,swimming,
+T152072158000,United States of America,M,USA,swimming,
+T153072139060,People's Republic of China,X,CHN,swimming,
+T154252007135,United States of America,W,USA,swimming,
+T155251247033,United States of America,W,USA,swimming,
+T156038232203,Brazil,W,BRA,swimming,
+T156096141213,Australia,W,AUS,swimming,
+T157141039174,United States of America,X,USA,swimming,
+T159085242241,Great Britain,M,GBR,swimming,
+T159170064046,United States of America,M,USA,swimming,
+T160254050136,United States of America,X,USA,swimming,
+T161191071133,People's Republic of China,W,CHN,swimming,
+T163062069251,United States of America,M,USA,swimming,
+T163072084245,Israel,X,ISR,swimming,
+T163127098077,Poland,W,POL,swimming,
+T164107208177,United States of America,M,USA,swimming,
+T164201023192,Australia,W,AUS,swimming,
+T164227030087,Poland,W,POL,swimming,
+T165150246048,France,M,FRA,swimming,
+T165219065158,German Democratic Republic,W,GDR,swimming,
+T165230053108,Australia,M,AUS,swimming,
+T165255017046,Australia,W,AUS,swimming,
+T170011107055,Italy,M,ITA,swimming,
+T172050237073,People's Republic of China,X,CHN,swimming,
+T173034009013,Federal Republic of Germany,M,FRG,swimming,
+T176081239160,United States of America,M,USA,swimming,
+T176106184236,People's Republic of China,W,CHN,swimming,
+T176208225219,United States of America,M,USA,swimming,
+T176255250242,Great Britain,X,GBR,swimming,
+T177099104150,United States of America,M,USA,swimming,
+T177131070058,Great Britain,X,GBR,swimming,
+T177162067254,Australia,X,AUS,swimming,
+T177215118232,People's Republic of China,M,CHN,swimming,
+T178131014059,Australia,W,AUS,swimming,
+T179016191120,Australia,M,AUS,swimming,
+T180005075132,Australia,W,AUS,swimming,
+T180082238036,Australia,W,AUS,swimming,
+T182013107120,Australia,M,AUS,swimming,
+T183042211129,Netherlands,M,NED,swimming,
+T183209174099,United States of America,W,USA,swimming,
+T184186134220,Great Britain,X,GBR,swimming,
+T185128006082,United States of America,W,USA,swimming,
+T185180078216,United States of America,W,USA,swimming,
+T186035252019,United States of America,X,USA,swimming,
+T186102254129,Italy,M,ITA,swimming,
+T186119241049,New Zealand,W,NZL,swimming,
+T187154083112,United States of America,M,USA,swimming,
+T188255247159,United States of America,X,USA,swimming,
+T189119064069,United States of America,M,USA,swimming,
+T190092002110,Denmark,W,DEN,swimming,
+T190186209138,Great Britain,W,GBR,swimming,
+T193026024173,Great Britain,M,GBR,swimming,
+T196095020070,Lithuania,M,LTU,swimming,
+T196196115151,People's Republic of China,W,CHN,swimming,
+T197028067226,Republic of Korea,M,KOR,swimming,
+T197064043186,France,M,FRA,swimming,
+T197121211099,Great Britain,M,GBR,swimming,
+T197192199178,Australia,W,AUS,swimming,
+T200208094172,United States of America,M,USA,swimming,
+T204026223054,United States of America,W,USA,swimming,
+T204027239107,South Africa,W,RSA,swimming,
+T204216145015,United States of America,X,USA,swimming,
+T207042251035,People's Republic of China,W,CHN,swimming,
+T210060000005,United States of America,M,USA,swimming,
+T210070222027,South Africa,M,RSA,swimming,
+T211255218208,People's Republic of China,X,CHN,swimming,
+T212055046088,Australia,W,AUS,swimming,
+T216012230223,People's Republic of China,W,CHN,swimming,
+T216014106137,South Africa,M,RSA,swimming,
+T216092071169,United States of America,M,USA,swimming,
+T217151129191,Australia,W,AUS,swimming,
+T217177120018,United States of America,M,USA,swimming,
+T218022032195,Russian Federation,M,RUS,swimming,
+T218038013073,Netherlands,W,NED,swimming,
+T220064210078,Canada,W,CAN,swimming,
+T221144098126,United States of America,M,USA,swimming,
+T221255160105,United States of America,M,USA,swimming,
+T224085015032,Australia,X,AUS,swimming,
+T225095247005,United States of America,M,USA,swimming,
+T226131186151,Australia,M,AUS,swimming,
+T226159240093,People's Republic of China,W,CHN,swimming,
+T227166195031,United States of America,W,USA,swimming,
+T227227075171,People's Republic of China,W,CHN,swimming,
+T228006119010,United States of America,M,USA,swimming,
+T228010157078,Australia,W,AUS,swimming,
+T228211081171,Germany,W,GER,swimming,
+T231142178065,United States of America,X,USA,swimming,
+T231254107028,People's Republic of China,X,CHN,swimming,
+T232052083063,United States of America,W,USA,swimming,
+T234067164063,United States of America,M,USA,swimming,
+T236149232187,United States of America,M,USA,swimming,
+T237004209070,Russian Federation,M,RUS,swimming,
+T239108182176,Netherlands,W,NED,swimming,
+T240229054098,Australia,W,AUS,swimming,
+T241054177157,United States of America,M,USA,swimming,
+T241211162236,Italy,M,ITA,swimming,
+T241222252249,Great Britain,X,GBR,swimming,
+T242075099067,Great Britain,M,GBR,swimming,
+T243153023105,United States of America,M,USA,swimming,
+T243187227111,Australia,W,AUS,swimming,
+T244008189081,Serbia,M,SRB,swimming,
+T244157063110,United States of America,M,USA,swimming,
+T245049147179,United States of America,M,USA,swimming,
+T245225170159,Italy,W,ITA,swimming,
+T245241122029,United States of America,M,USA,swimming,
+T246010078220,United States of America,W,USA,swimming,
+T246234046059,United States of America,M,USA,swimming,
+T247150124139,United States of America,M,USA,swimming,
+T249015074213,Great Britain,X,GBR,swimming,
+T249049140097,People's Republic of China,X,CHN,swimming,
+T249066122070,United States of America,M,USA,swimming,
+T251084043155,United States of America,M,USA,swimming,
+T251234141132,United States of America,M,USA,swimming,
+T251237025181,People's Republic of China,W,CHN,swimming,
+T253093211118,Russian Federation,M,RUS,swimming,
+T254025182131,Germany,W,GER,swimming,
+T254078068205,United States of America,W,USA,swimming,
+T255047189153,United States of America,M,USA,swimming,
+WPOMTEAM7---AUS01,Australia,M,AUS,water-polo,Men
+WPOMTEAM7---CRO01,Croatia,M,CRO,water-polo,Men
+WPOMTEAM7---ESP01,Spain,M,ESP,water-polo,Men
+WPOMTEAM7---FRA01,France,M,FRA,water-polo,Men
+WPOMTEAM7---GRE01,Greece,M,GRE,water-polo,Men
+WPOMTEAM7---HUN01,Hungary,M,HUN,water-polo,Men
+WPOMTEAM7---ITA01,Italy,M,ITA,water-polo,Men
+WPOMTEAM7---JPN01,Japan,M,JPN,water-polo,Men
+WPOMTEAM7---MNE01,Montenegro,M,MNE,water-polo,Men
+WPOMTEAM7---ROU01,Romania,M,ROU,water-polo,Men
+WPOMTEAM7---SRB01,Serbia,M,SRB,water-polo,Men
+WPOMTEAM7---USA01,United States of America,M,USA,water-polo,Men
+WPOWTEAM7---AUS01,Australia,W,AUS,water-polo,Women
+WPOWTEAM7---CAN01,Canada,W,CAN,water-polo,Women
+WPOWTEAM7---CHN01,People's Republic of China,W,CHN,water-polo,Women
+WPOWTEAM7---ESP01,Spain,W,ESP,water-polo,Women
+WPOWTEAM7---FRA01,France,W,FRA,water-polo,Women
+WPOWTEAM7---GRE01,Greece,W,GRE,water-polo,Women
+WPOWTEAM7---HUN01,Hungary,W,HUN,water-polo,Women
+WPOWTEAM7---ITA01,Italy,W,ITA,water-polo,Women
+WPOWTEAM7---NED01,Netherlands,W,NED,water-polo,Women
+WPOWTEAM7---USA01,United States of America,W,USA,water-polo,Women

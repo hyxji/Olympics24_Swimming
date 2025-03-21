@@ -1,0 +1,54 @@
+Event_ID,Event_Tag,Event_Name,Discipline_Code,Venue_Name
+1,artistic-swimming,Duet,artistic-swimming,Aquatics Centre
+2,artistic-swimming,Team,artistic-swimming,Aquatics Centre
+3,diving,Women's 3m Springboard,diving,Aquatics Centre
+4,diving,Women's 10m Platform,diving,Aquatics Centre
+5,diving,Women's Synchronised 3m Springboard,diving,Aquatics Centre
+6,diving,Women's Synchronised 10m Platform,diving,Aquatics Centre
+7,diving,Men's 3m Springboard,diving,Aquatics Centre
+8,diving,Men's 10m Platform,diving,Aquatics Centre
+9,diving,Men's Synchronised 3m Springboard,diving,Aquatics Centre
+10,diving,Men's Synchronised 10m Platform,diving,Aquatics Centre
+11,marathon-swimming,Women's 10km,marathon-swimming,Pont Alexandre III
+12,marathon-swimming,Men's 10km,marathon-swimming,Pont Alexandre III
+13,surfing,Men,surfing,"Teahupo'o, Tahiti"
+14,surfing,Women,surfing,"Teahupo'o, Tahiti"
+15,swimming,Women's 50m Freestyle,swimming,Paris La Defense Arena
+16,swimming,Women's 100m Freestyle,swimming,Paris La Defense Arena
+17,swimming,Women's 200m Freestyle,swimming,Paris La Defense Arena
+18,swimming,Women's 400m Freestyle,swimming,Paris La Defense Arena
+19,swimming,Women's 800m Freestyle,swimming,Paris La Defense Arena
+20,swimming,Women's 1500m Freestyle,swimming,Paris La Defense Arena
+21,swimming,Women's 100m Backstroke,swimming,Paris La Defense Arena
+22,swimming,Women's 200m Backstroke,swimming,Paris La Defense Arena
+23,swimming,Women's 100m Breaststroke,swimming,Paris La Defense Arena
+24,swimming,Women's 200m Breaststroke,swimming,Paris La Defense Arena
+25,swimming,Women's 100m Butterfly,swimming,Paris La Defense Arena
+26,swimming,Women's 200m Butterfly,swimming,Paris La Defense Arena
+27,swimming,Women's 200m Individual Medley,swimming,Paris La Defense Arena
+28,swimming,Women's 400m Individual Medley,swimming,Paris La Defense Arena
+29,swimming,Women's 4 x 100m Freestyle Relay,swimming,Paris La Defense Arena
+30,swimming,Women's 4 x 200m Freestyle Relay,swimming,Paris La Defense Arena
+31,swimming,Women's 4 x 100m Medley Relay,swimming,Paris La Defense Arena
+32,swimming,Men's 50m Freestyle,swimming,Paris La Defense Arena
+33,swimming,Men's 100m Freestyle,swimming,Paris La Defense Arena
+34,swimming,Men's 200m Freestyle,swimming,Paris La Defense Arena
+35,swimming,Men's 400m Freestyle,swimming,Paris La Defense Arena
+36,swimming,Men's 800m Freestyle,swimming,Paris La Defense Arena
+37,swimming,Men's 1500m Freestyle,swimming,Paris La Defense Arena
+38,swimming,Men's 100m Backstroke,swimming,Paris La Defense Arena
+39,swimming,Men's 200m Backstroke,swimming,Paris La Defense Arena
+40,swimming,Men's 100m Breaststroke,swimming,Paris La Defense Arena
+41,swimming,Men's 200m Breaststroke,swimming,Paris La Defense Arena
+42,swimming,Men's 100m Butterfly,swimming,Paris La Defense Arena
+43,swimming,Men's 200m Butterfly,swimming,Paris La Defense Arena
+44,swimming,Men's 200m Individual Medley,swimming,Paris La Defense Arena
+45,swimming,Men's 400m Individual Medley,swimming,Paris La Defense Arena
+46,swimming,Men's 4 x 100m Freestyle Relay,swimming,Paris La Defense Arena
+47,swimming,Men's 4 x 200m Freestyle Relay,swimming,Paris La Defense Arena
+48,swimming,Men's 4 x 100m Medley Relay,swimming,Paris La Defense Arena
+49,swimming,Mixed 4 x 100m Medley Relay,swimming,Paris La Defense Arena
+50,water-polo,Men,water-polo,Aquatics Centre
+51,water-polo,Men,water-polo,Paris La Defense Arena
+52,water-polo,Women,water-polo,Aquatics Centre
+53,water-polo,Women,water-polo,Paris La Defense Arena

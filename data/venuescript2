@@ -1,0 +1,32 @@
+import pandas as pd
+
+# Load the venues and disciplines CSV files
+venues_df = pd.read_csv('venues.csv')
+disciplines_df = pd.read_csv('disciplines.csv')
+
+# Create a mapping from discipline names to discipline codes
+discipline_mapping = dict(zip(disciplines_df['discipline_name'].str.lower(), disciplines_df['discipline_code']))
+
+# Prepare an empty list to hold the rows for the new DataFrame
+venue_sport_data = []
+
+# Iterate through the venues DataFrame
+for index, row in venues_df.iterrows():
+    venue = row['venue']
+    
+    # Split the sports string and clean it
+    sports = row['sports'].strip("[]").replace("'", "").split(", ")
+    
+    # Map each sport to its corresponding discipline code and store the result
+    for sport in sports:
+        discipline_code = discipline_mapping.get(sport.lower())
+        if discipline_code:  # Only include if discipline_code is found
+            venue_sport_data.append({'venue': venue, 'discipline_code': discipline_code})
+
+# Create a DataFrame from the collected data
+venue_sport_df = pd.DataFrame(venue_sport_data)
+
+# Save the DataFrame to a new CSV file
+venue_sport_df.to_csv('venue_sport.csv', index=False)
+
+print("Venue and discipline code mapping saved to 'venue_sport.csv'.")
